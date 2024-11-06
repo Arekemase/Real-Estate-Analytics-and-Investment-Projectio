@@ -1,4 +1,6 @@
-# Real-Estate-Analytics-and-Investment-Projectio
+# Real-Estate-Analytics-and-Investment-Projectio 
+[Copy HTML Path File from Google Drive](https://drive.google.com/drive/folders/1KSm9NiNOhtF3MkgKZdqADFw5cRhnM248?usp=sharing)
+
 
 ### Overview
 This project demonstrates my expertise in real estate analytics and data science, focusing on providing actionable insights for stakeholders such as investors, buyers, and assessors. By leveraging data-driven solutions, this project aims to analyze property value trends, evaluate sales ratio performance, and identify high-potential investment opportunities.
