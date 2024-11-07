@@ -1,5 +1,5 @@
 # Real-Estate-Analytics-and-Investment-Projectio 
-[Copy HTML Path File from Google Drive](https://drive.google.com/drive/folders/1KSm9NiNOhtF3MkgKZdqADFw5cRhnM248?usp=sharing)
+[Download HTML File from Google Drive](https://drive.google.com/drive/folders/1KSm9NiNOhtF3MkgKZdqADFw5cRhnM248?usp=sharing)
 
 
 ### Overview
